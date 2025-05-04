@@ -24,7 +24,7 @@ Let's consider the following CSS module file.
 ```tsx
 // YourComponent.tsx
 import styles from './styles.module.scss';
-import { cssComponents } from '@/src/css-components';
+import cssComponents from '@ncodeuy/css-components';
 
 // Components with the className prop already set.
 const { Card, Title, Text} = cssComponents(styles);
