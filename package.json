@@ -17,7 +17,7 @@
   "author": "Nicolas Gonzalvez <nico@ncode.uy>",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^19.1.0"
+    "react": "^16.0.0"
   },
   "devDependencies": {
     "@testing-library/react": "^16.3.0",
