@@ -1,7 +1,7 @@
 {
   "name": "@ncodeuy/css-components",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library that turns CSS module classes into components",
   "main": "src/index.ts",
   "scripts": {
